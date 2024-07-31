@@ -5,7 +5,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-https://imaginative-hotteok-2453f0.netlify.app/
+https://totality-frontend-challenge-beta.vercel.app/
 
 ## Features
 
@@ -25,12 +25,6 @@ Clone the project
 
 ```bash
   git clone https://github.com/kamalakar25/totality-frontend-challenge.git
-```
-
-Go to the project directory
-
-```bash
-  cd React_E-Commerce
 ```
 
 Install dependencies
